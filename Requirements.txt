@@ -1,0 +1,12 @@
+pdfplumber
+transformers
+python-dotenv
+groq
+gtts
+pygame
+sounddevice
+numpy
+scipy
+faster-whisper
+pynput
+opencv-python
