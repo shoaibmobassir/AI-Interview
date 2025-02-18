@@ -13,12 +13,12 @@ The AI-Powered Interview Assistant is a versatile tool designed to simulate and 
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone <repository_url>  
-   cd <repository_folder>  
+   git https://github.com/shoaibmobassir/AI-Interview
+   cd AI-Interview  
    ```  
 2. Install dependencies:  
    ```bash  
-   pip install -r requirements.txt  
+   pip install -r Requirements.txt  
    ```  
 3. Configure environment variables:  
    - Create a `.env` file and add:  
